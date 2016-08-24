@@ -24,5 +24,11 @@ title: Team
     {% for member in team %}
       {% include team-member.html %}
     {% endfor %}
+
+    <h2>Emiratus</h2>
+    {% assign team = site.bios | sort: 'title' | where: 'type', 'emiratus' %}
+    {% for member in team %}
+      {% include team-member.html %}
+    {% endfor %}
 	</article>
 </section>
