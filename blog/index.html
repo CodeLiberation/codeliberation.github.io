@@ -6,9 +6,19 @@ title: Blog
 	<article class="entry">
             <h1>Blog</h1>
             <ul class="list-unstyled blog-post-list">
-                {% for post in site.posts %}
+                {% for post in paginator.posts %}
                     {% include blog-post.html %}
                 {% endfor %}
             </ul>
+            <!-- Pagination links -->
+            <div class="pagination">
+              {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+              {% endif %}
+              <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+              {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+              {% endif %}
+            </div>
 	</article>
 </section>

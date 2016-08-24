@@ -10,4 +10,30 @@ Last weekend, The Code Liberation Foundation held its first ever Lady Jam, a Gam
 
 Participants came from various backgrounds of coding experience and all left with new knowledge on OpenFrameworks and their very own, working games. The Code Liberation Foundation would like to congratulate all the participants on a job well down and thank everyone who came out for our first ever Lady Jam. We’d also like to thank NYU-Poly for helping us host this Game Jam and providing us with the space at the Media and Games Network [MAGNET] for our participants to come up with their awesome ideas in an equally awesome space. It was more successful than we had hoped and we can’t wait for our next one!
 
+Weren’t able to make it to the Lady Jam but want to see the awesome that came out of it? Click these links to find out more about the games that came out of the Lady Jam!
+
+## Beacon
+<video src="/files/videos/2013-gamejam/beacon.mp4" controls></video>
+
+### Creators
+Winnie Song, Maria Jose Saint Martin, and Elyse Lemoine
+
+### Description
+Beacon is a game about light. Using the mouse to control the flashlight depth and angle, the player must precisely zap only the Gadflies, and avoid the Fireflies. You must collect as many Fireflies as you can before the moon falls, and avoid getting swarmed.
+
+## Therapy Sesh
+<video src="/files/videos/2013-gamejam/therapy-sesh.mp4" controls></video>
+
+### Creator
+Toni Pizza
+
+## Tangle
+<video src="/files/videos/2013-gamejam/tangle.mp4" controls></video>
+
+## IntraTerrestrial
+<video src="/files/videos/2013-gamejam/intraterrestrial.mp4" controls></video>
+
+### Creators
+Team Shelium (Rebekka Dunlap, Stephanie Hugh, Asia Hoe, Arielle Martinez, Phaedra Riley, and Seori Sachs)
+
 Want to learn more? Check out [coverage of the Lady Jam done by News12](http://brooklyn.news12.com/news/women-create-video-games-at-nyu-polytechnic-institute-1.6170525)!

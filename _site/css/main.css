@@ -2229,7 +2229,7 @@ a {
   text-decoration: none;
   color: #4496AB;
   border-bottom: 1px solid #55C8E6;
-  padding-bottom: 2px; }
+  padding-bottom: .05em; }
   a:visited {
     color: #2E6472;
     border-bottom: 1px solid #4496AB; }
@@ -2334,6 +2334,13 @@ input[type="submit"], .button {
 .blog-post-meta {
   color: #999999; }
 
+.pagination {
+  text-align: center;
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid #E5E5E5;
+  color: #999999; }
+
 /** Layout **/
 .entry {
   max-width: 720px;
@@ -2356,6 +2363,10 @@ input[type="submit"], .button {
   left: 0;
   width: 100%;
   height: 100%; }
+
+video {
+  width: 100%    !important;
+  height: auto   !important; }
 
 /** Forms **/
 label {

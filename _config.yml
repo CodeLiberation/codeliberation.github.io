@@ -3,6 +3,10 @@ highlights: true
 description: "Code Liberation is a 501c3 that catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEM fields."
 url: "http://codeliberation.org" # the base hostname & protocol for your site
 
+#Gems
+gems:
+  - jekyll-paginate
+
 #Collections
 collections:
   bios:
@@ -11,3 +15,7 @@ collections:
     defaults:
       values:
         layout: post
+
+#Pagination
+paginate: 3
+paginate_path: "blog/page:num/"
