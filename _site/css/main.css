@@ -2193,7 +2193,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Bariol", Arial, Sans-serif;
-  color: #000000; }
+  color: #000000;
+  background-color: #F8F8F8; }
   @media screen and (max-width: 640px) {
     body {
       font-size: 16px; } }
@@ -2327,7 +2328,8 @@ input[type="submit"], .button {
   margin: 0 auto; }
 
 .content-container {
-  padding: 1.875em; }
+  padding: 1.875em;
+  background-color: #FFFFFF; }
 
 /** Forms **/
 label {
@@ -2383,8 +2385,7 @@ textarea {
 #header {
   border-bottom: 1px solid #E5E5E5;
   text-align: center;
-  padding: 1.25em 1.875em;
-  background-color: #F8F8F8; }
+  padding: 1.25em 1.875em; }
   @media screen and (min-width: 800px) {
     #header #navigation {
       display: -webkit-box;
@@ -2425,7 +2426,6 @@ textarea {
 
 /** Footer **/
 #footer {
-  background-color: #F8F8F8;
   border-top: 1px solid #E5E5E5;
   color: #999999;
   padding: 1.25em 1.875em;
