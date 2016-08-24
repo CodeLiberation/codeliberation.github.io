@@ -1,0 +1,111 @@
+---
+# Hi
+---
+
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=PT+Mono);
+
+// Variables
+$base-font: 'Bariol', Arial, Sans-serif;
+$base-font-size:   18px;
+$base-font-size-small: 16px;
+$display-font: 'Bariol', Arial, Sans-serif;
+$monospace-font: 'PT Mono', monospace;
+
+$black: #000000;
+$white: #FFFFFF;
+
+$gray: #cccccc;
+$grayD1: #999999;
+$grayD2: #666666;
+$grayD3: #333333;
+$grayL1: #E5E5E5;
+$grayL2: #F8F8F8;
+
+$pink: #EF3B8C;
+$pinkD1: #B23069;
+$pinkD2: #772045;
+$pinkL1: #F469A8;
+$pinkL2: #FDEBF3;
+
+$blue: #55C8E6;
+$blueD1: #4496AB;
+$blueD2: #2E6472;
+$blueL1: #92E0F4;
+$blueL2: #DDF4FA;
+
+// Mixins
+
+@mixin display-flex() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex-wrap($wrap: wrap) {
+  -webkit-flex-wrap: $wrap;
+  flex-wrap: $wrap;
+}
+
+@mixin flex-justify-content($justify: space-between) {
+  -webkit-justify-content: $justify;
+  justify-content: $justify;
+}
+
+@mixin flex-align-items($align: center) {
+  -webkit-align-items: $align;
+  align-items: $align;
+}
+
+@mixin flex-order($order: center) {
+  -webkit-order: $order;
+  order: $order;
+}
+
+@mixin keyframe ($animation_name) {
+  @-webkit-keyframes #{$animation_name} {
+    @content;
+  }
+
+  @-moz-keyframes #{$animation_name} {
+    @content;
+  }
+
+  @-o-keyframes #{$animation_name} {
+    @content;
+  }
+
+  @keyframes #{$animation_name} {
+    @content;
+  }
+}
+
+@mixin animation ($animation) {
+  -webkit-animation: $animation;
+
+  -moz-animation: $animation;
+
+  -o-animation: $animation;
+
+  animation: $animation;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "fonts",
+  "animations",
+  "base",
+  "buttons",
+  "layout",
+  "forms",
+  "header",
+  "footer",
+  "volunteer",
+  "team",
+  "home",
+  "about",
+  "errors",
+  "syntax-highlighting"
+;

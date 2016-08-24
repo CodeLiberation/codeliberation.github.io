@@ -1,0 +1,23 @@
+<header id="header">
+	<nav id="navigation">
+		<h1>
+			<a href="/">
+				{% include logo.svg %}
+			</a>
+		</h1>
+		<ul>
+			<li>
+				<a href="/about" {% if page.url contains '/about' %} class="navigation-link-active"{% endif %}>About us</a>
+			</li>
+			<li>
+				<a href="/team" {% if page.url contains '/team' %} class="navigation-link-active"{% endif %}>The team</a>
+			</li>
+			<li>
+				<a href="/volunteer" {% if page.url contains '/volunteer' %} class="navigation-link-active"{% endif %}>Volunteer</a>
+			</li>
+			<li>
+				<a href="/sponsors" {% if page.url contains '/sponsors' %} class="navigation-link-active"{% endif %}>Sponsors</a>
+			</li>
+		</ul>
+	</nav>
+</header>

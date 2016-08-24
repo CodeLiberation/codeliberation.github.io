@@ -1,0 +1,9 @@
+name: Code Liberation
+highlights: true
+description: "Code Liberation is a 501c3 that catalyzes the creation of digital games and creative technologies by women, nonbinary, femme, and girl-identifying people to diversify STEM fields."
+url: "http://codeliberation.org" # the base hostname & protocol for your site
+
+#Collections
+collections:
+  bios:
+    output: true

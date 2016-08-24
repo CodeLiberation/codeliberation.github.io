@@ -1,0 +1,28 @@
+---
+layout: default
+title: Team
+---
+<section class="content-container volunteer-container">
+	<article class="entry">
+		<h1>The {{site.name}} team</h1>
+		<p>Code Liberation is organized by a diverse group of people across the globe.</p>
+
+    <h2>Founder</h2>
+    {% assign team = site.bios | sort: 'title' | where: 'type', 'founder' %}
+    {% for member in team %}
+      {% include team-member.html %}
+    {% endfor %}
+
+    <h2>Directors</h2>
+    {% assign team = site.bios | sort: 'title' | where: 'type', 'director' %}
+    {% for member in team %}
+      {% include team-member.html %}
+    {% endfor %}
+
+    <h2>Members</h2>
+    {% assign team = site.bios | sort: 'title' | where: 'type', 'member' %}
+    {% for member in team %}
+      {% include team-member.html %}
+    {% endfor %}
+	</article>
+</section>

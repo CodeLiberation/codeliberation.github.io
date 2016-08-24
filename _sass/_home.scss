@@ -1,0 +1,30 @@
+/** Home **/
+
+.hero-home {
+  background-image: url(/img/header-image.png);
+  background-size: cover;
+  padding: 3em 1em;
+  font-size: 2em;
+  color: $white;
+}
+
+#mc_embed_signup {
+  font:1em $base-font;
+}
+
+#mc_embed_signup div.mce_inline_error {
+  background-color: $white !important;
+  font-weight: 400 !important;
+  color: $pink !important;
+  padding: .5em 0 0 !important;
+}
+
+#mc_embed_signup_scroll {
+  .clear {
+    text-align: right;
+  }
+
+  #mc-embedded-subscribe {
+    margin-top: .5em;
+  }
+}

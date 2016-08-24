@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: $base-font;
+    color: $black;
+
+    @media screen and (max-width: 640px) {
+      font-size: $base-font-size-small;
+    }
+
+    @media screen and (min-width: 641px) {
+      font-size: $base-font-size;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $display-font;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: .5em;
+}
+
+h1 {
+  font-size: 2.25em;
+  color: $pink;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.25em;
+  color: $grayD1;
+}
+
+p {
+  line-height: 1.25em;
+
+  &:last-child {
+    margin: 0;
+  }
+}
+
+a {
+  transition: 0.2s all;
+  text-decoration: none;
+  color: $blueD1;
+  border-bottom: 1px solid $blue;
+  padding-bottom: 4px;
+
+  &:visited {
+    color:$blueD2;
+    border-bottom: 1px solid $blueD1;
+  }
+
+  &:hover {
+    color:$blue;
+    border-bottom: 1px solid $blueL1;
+  }
+}
+
+hr {
+  border-width: 1px 0 0;
+  border-style: solid;
+  border-color: $grayL1;
+  margin: 2em 0 1.75em;
+}
+
+.list-unstyled {
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+
+img {
+  max-width:100%;
+}
+
+.hidden {
+  display:none !important;
+}
+
+/** Code formatting **/
+pre,
+code {
+  font-size: 16px;
+  border-radius: 3px;
+  background-color: $grayL2;
+}
+
+code {
+  padding: 1px 5px 3px;
+  font-family: $monospace-font;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+p > code {
+  vertical-align: bottom;
+}

@@ -1,0 +1,67 @@
+/** Navigation **/
+#clf-logo-container {
+  height:1.5em;
+  max-width: 100%;
+}
+
+#clf-logo {
+  fill: $white;
+}
+
+#header {
+  border-bottom: 1px solid $grayL1;
+  text-align: center;
+  padding: 1.25em 1.875em;
+  background-color: $grayL2;
+
+  #navigation {
+    @media screen and (min-width: 800px) {
+      @include display-flex;
+      @include flex-justify-content;
+      @include flex-align-items;
+    }
+  }
+
+  h1 {
+    margin: 0;
+
+    @media screen and (min-width: 641px) {
+      display:inline-block;
+    }
+
+    a {
+      border: 0;
+    }
+  }
+
+  ul {
+    @media screen and (min-width: 800px) {
+      display:inline-block;
+    }
+
+    @media screen and (max-width: 799px) {
+      margin-top: 1em;
+
+      .button {
+        padding: 12px 14px;
+      }
+    }
+
+    list-style:none;
+    margin:0;
+    padding:0;
+
+    li {
+      display: inline-block;
+
+      + li {
+        margin-left:1em;
+      }
+
+      a.navigation-link-active {
+        color: $pink;
+        border: none;
+      }
+    }
+  }
+}

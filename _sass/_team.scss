@@ -1,0 +1,28 @@
+/** Team **/
+
+.team-member-container {
+  + .team-member-container {
+    margin-top: 1em;
+  }
+}
+
+.team-member-info {
+  @include display-flex();
+
+  .team-member-image {
+    @media screen and (min-width: 800px) {
+      width: 35%;
+      margin-right: 1em;
+    }
+  }
+
+  .team-member-content {
+    @media screen and (min-width: 800px) {
+      width: 65%;
+    }
+
+    p:first-child {
+      margin-top: 0;
+    }
+  }
+}

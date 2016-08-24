@@ -1,0 +1,58 @@
+@include keyframe(textbubble) {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+        top:0;
+        left:0;
+    }
+
+    75% {
+    	opacity: 1;
+    }
+
+    100% {
+        top: -30px;
+        left: -10px;
+    }
+}
+
+@include keyframe(slideUp) {
+    0% {
+        bottom: -120px;
+    }
+
+    85% {
+    	bottom: 15px;
+    }
+
+    100% {
+        bottom: 10px;
+    }
+}
+
+@include keyframe(slideHover) {
+    0% {
+        bottom: 10px;
+    }
+
+    50% {
+    	bottom: 15px;
+    }
+
+    100% {
+    	bottom: 10px;
+    }
+}
+
+@include keyframe(fadeIn) {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

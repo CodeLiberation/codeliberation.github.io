@@ -1,0 +1,57 @@
+/** Forms **/
+
+label {
+  color: $grayD1;
+  margin: 1em 0 .5em;
+  display: block;
+}
+
+.required-field {
+  &:after {
+    color: $pink;
+    content:"* (required)";
+  }
+}
+
+input:not([type="submit"]), textarea {
+  -webkit-appearance: none;
+  background: $grayL2;
+  border-radius: 3px;
+  border: 1px solid $gray;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: $black;
+  display: block;
+  font-family: $base-font;
+  font-size: 1em;
+  margin: 0;
+  padding: 7px 10px;
+  transition: 0.2s all;
+  width: 100%;
+
+  &:hover {
+    border-color: $grayL1;
+  }
+
+  &:focus {
+    background: $white;
+    border-color: $grayD1;
+    outline: none;
+  }
+
+  &[disabled] {
+    background: $grayL1;
+    border-color: $grayD1;
+    color:$grayD1;
+  }
+
+  @media screen and (max-width: 960px) {
+    font-size: 1em;
+  }
+
+}
+
+textarea {
+  resize: vertical;
+  min-height:150px;
+}

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<section class="posts-content">	
+  <h2>
+		Blog
+		<a href="/blog" class="view-more-link">Back to all posts</a>
+	</h2>
+
+	<article class="post-70 post type-post status-publish format-standard hentry category-events category-news tag-awesome tag-content-strategy" id="post-70">
+		
+		<h3 class="entry-title">{{ page.title }}</h3>
+		<footer class="meta">
+			<i class="ss-standard ss-clock"></i> 
+			<time datetime="{{ page.date}}" pubdate="" class="updated">
+				{{ page.date | date: '%B %d, %Y' }}
+			</time>
+			<span class="author vcard">
+				<i class="ss-standard ss-user"></i>
+				<span class="fn">{{page.author}}</span>
+			</span>
+		</footer>
+		<div class="entry-content">
+			{{ content }}
+		</div>
+	</article>
+</section>

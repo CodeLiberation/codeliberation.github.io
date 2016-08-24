@@ -1,0 +1,68 @@
+input[type="submit"], .button {
+  -webkit-appearance: none;
+  background: $white;
+  border-radius: 4px;
+  border: 1px solid $blue;
+  color: $blueD1;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $display-font;
+  font-size: 1em;
+  line-height: 1em;
+  padding: 8px 12px;
+  text-decoration: none;
+  transition: .2s all;
+  text-align: center;
+
+  &:visited {
+    color:$blueD1;
+    border: 1px solid $blue;
+  }
+
+  &:hover {
+    color:$blue;
+    border: 1px solid $blueL1;
+  }
+
+  &:active {
+    color:$blueD2;
+    border: 1px solid $blueD1;
+  }
+
+  &.button-cta {
+    color: $white;
+    background-color: $blue;
+    border-color: transparent;
+
+    &:visited {
+      background-color: $blue;
+    }
+
+    &:hover {
+      background-color: $blueL1;
+    }
+
+    &:active {
+      background-color: $blueD1;
+    }
+  }
+
+  &:focus {
+    outline: 1px dotted $black;
+  }
+
+  &[disabled] {
+    color: $grayD1;
+    border: 1px solid $gray;
+    background-color: $grayL2;
+  }
+
+  .ss-icon {
+    font-size: .75em;
+  }
+}
+
+.button-block {
+  display: block;
+  width: 100%;
+}
