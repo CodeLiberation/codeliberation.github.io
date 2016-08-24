@@ -1,0 +1,7 @@
+<li class="blog-post-list-item">
+    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    <span class="blog-post-meta">Posted on {{ post.date | date: "%B %d, %Y" }} by {{ post.author }} &amp; filed under {{ post.category }}.</span>
+    <article class="blog-post-content">
+      {{post.content}}
+    </article>
+</li>

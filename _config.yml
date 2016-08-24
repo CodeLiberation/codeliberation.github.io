@@ -10,4 +10,4 @@ collections:
     permalink: /bios/:path/
     defaults:
       values:
-        layout: default
+        layout: post

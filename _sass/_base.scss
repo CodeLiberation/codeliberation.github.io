@@ -39,7 +39,7 @@ p {
   line-height: 1.25em;
 
   &:last-child {
-    margin: 0;
+    margin-bottom: 0;
   }
 }
 
@@ -48,7 +48,7 @@ a {
   text-decoration: none;
   color: $blueD1;
   border-bottom: 1px solid $blue;
-  padding-bottom: 4px;
+  padding-bottom: 2px;
 
   &:visited {
     color:$blueD2;
@@ -72,6 +72,14 @@ hr {
   list-style: none;
   margin:0;
   padding:0;
+}
+
+ul:not(.list-unstyled) {
+  > li {
+    + li {
+      margin-top: .25em;
+    }
+  }
 }
 
 img {

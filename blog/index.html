@@ -1,0 +1,14 @@
+---
+layout: default
+title: Blog
+---
+<section class="content-container about-container">
+	<article class="entry">
+            <h1>Blog</h1>
+            <ul class="list-unstyled blog-post-list">
+                {% for post in site.posts %}
+                    {% include blog-post.html %}
+                {% endfor %}
+            </ul>
+	</article>
+</section>

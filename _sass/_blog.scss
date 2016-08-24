@@ -1,0 +1,13 @@
+/** Blog **/
+
+.blog-post-list-item {
+  + .blog-post-list-item {
+    margin-top: 2em;
+    padding-top: 1.5em;
+    border-top: 1px solid $grayL1;
+  }
+}
+
+.blog-post-meta {
+  color: $grayD1;
+}

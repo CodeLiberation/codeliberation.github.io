@@ -2222,14 +2222,14 @@ h3 {
 p {
   line-height: 1.25em; }
   p:last-child {
-    margin: 0; }
+    margin-bottom: 0; }
 
 a {
   transition: 0.2s all;
   text-decoration: none;
   color: #4496AB;
   border-bottom: 1px solid #55C8E6;
-  padding-bottom: 4px; }
+  padding-bottom: 2px; }
   a:visited {
     color: #2E6472;
     border-bottom: 1px solid #4496AB; }
@@ -2247,6 +2247,9 @@ hr {
   list-style: none;
   margin: 0;
   padding: 0; }
+
+ul:not(.list-unstyled) > li + li {
+  margin-top: .25em; }
 
 img {
   max-width: 100%; }
@@ -2321,6 +2324,15 @@ input[type="submit"], .button {
 .button-block {
   display: block;
   width: 100%; }
+
+/** Blog **/
+.blog-post-list-item + .blog-post-list-item {
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid #E5E5E5; }
+
+.blog-post-meta {
+  color: #999999; }
 
 /** Layout **/
 .entry {
