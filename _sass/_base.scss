@@ -43,6 +43,11 @@ p {
   }
 }
 
+strong {
+  color: $pink;
+  font-weight: 400;
+}
+
 a {
   transition: 0.2s all;
   text-decoration: none;

@@ -6,7 +6,7 @@ author: "Code Liberation Team"
 category: Game Jams
 ---
 
-This past Saturday, we collaborated with [Black Girls Code](http://www.blackgirlscode.com/) to organize a workshop and short game jam. *57 girls showed up* to create video games. We also had a workshop for parents who wanted to learn about careers in game development. This was the final event of 2014 for Black Girls Code – what a way to end the year!
+This past Saturday, we collaborated with [Black Girls Code](http://www.blackgirlscode.com/) to organize a workshop and short game jam. **57 girls showed up** to create video games. We also had a workshop for parents who wanted to learn about careers in game development. This was the final event of 2014 for Black Girls Code – what a way to end the year!
 
 ### The workshop
 Our 3-hour GameMaker workshop was led by Maria Naggaga of Microsoft. With the help of many volunteers, we managed to teach 57 girls how to use the program and create pixel art for their games.
@@ -20,7 +20,7 @@ Our 3-hour GameMaker workshop was led by Maria Naggaga of Microsoft. With the he
 ![The workshop.](/img/blog/2014-bgc/workshop-3-1024x692.jpg)
 
 ### Game jam
-Due to the young age of our participants, we decided to have a shorter game jam. The theme, inspired by recent events in America, was *togetherness*.
+Due to the young age of our participants, we decided to have a shorter game jam. The theme, inspired by recent events in America, was **togetherness**.
 
 Participants were split into two sections based on age, then were directed to form teams. We informed them that game development includes many different roles – programming, design, UI, art, sound, and so on. Everyone had something to do.
 

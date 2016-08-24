@@ -2224,6 +2224,10 @@ p {
   p:last-child {
     margin-bottom: 0; }
 
+strong {
+  color: #EF3B8C;
+  font-weight: 400; }
+
 a {
   transition: 0.2s all;
   text-decoration: none;
