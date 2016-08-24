@@ -8,7 +8,7 @@ category: Resources
 
 Good morning and happy Caturday! Thanks to everyone who came to yesterday’s Intermediate HTML5 & JavaScript Game Development Workshop. Below are resources and tutorials to check out as you learn more about making games with Phaser.
 
-## References
+### References
 - [Official Phaser Website](http://phaser.io/)
 - [Phaser Game Examples (with code!)](http://examples.phaser.io/)
 - [Phaser Forum](http://www.html5gamedevs.com/forum/14-phaser/)
@@ -17,7 +17,7 @@ Good morning and happy Caturday! Thanks to everyone who came to yesterday’s In
 - [Game Mechanic Explorer](http://gamemechanicexplorer.com/)
 - [Open Source Phaser Game Editor](http://www.html5gamedevs.com/topic/6303-game-editor-on-phaser/)
 
-## Tutorials
+### Tutorials
 - [Make a Platformer with Phaser](http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game)
 - [Make Flappy Bird with Phaser](http://codevinsky.ghost.io/phaser-2-0-tutorial-flappy-bird-part-1/)
 - [Make a 2D Mobile Maze Game](https://developer.mozilla.org/en-US/docs/Games/Workflows/HTML5_Gamedev_Phaser_Device_Orientation)
