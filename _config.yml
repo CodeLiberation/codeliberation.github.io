@@ -7,3 +7,7 @@ url: "http://codeliberation.org" # the base hostname & protocol for your site
 collections:
   bios:
     output: true
+    permalink: /bios/:path/
+    defaults:
+      values:
+        layout: default
