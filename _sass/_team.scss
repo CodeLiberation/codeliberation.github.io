@@ -21,8 +21,8 @@
       margin-right: 1em;
     }
 
-    @media screen and (max-width: 599px) {
-      img {
+    img {
+      @media screen and (max-width: 599px) {
         max-height: 500px;
         margin-bottom: 1em;
       }
