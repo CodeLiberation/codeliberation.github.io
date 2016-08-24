@@ -1,6 +1,6 @@
 ---
 title: Jane Friedhoff
-image: Jane.jpg
+image: jane.jpg
 type: emiratus
 ---
 
