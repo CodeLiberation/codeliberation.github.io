@@ -33,7 +33,7 @@ You should now be able to see the site in your browser by going to `http://127.0
 The folder structure is already somewhat straightforward, but here's a general explanation to make it extra clear!
 
 ### _bios
-Team member biographies go here. They are markdown files and can be edited with any text editor. As for properties: `title` should be the name of the team member; `image` should be **the lowercase first name + filetype** for this team member's image (you can find and put images in `img/team`), and the type should either be `director`, `member`, or `alumnus`.
+Team member biographies go here. They are markdown files and can be edited with any text editor. As for properties: `title` should be the name of the team member; `image` should be **the lowercase first name + filetype** for this team member's image (you can find and put images in `img/team`), and the type should either be `director`, `member` (this is probably you!), or `emeritus` (alumni of Code Liberation).
 
 ### _includes
 Snippets of code that can be included and reused are placed here.
