@@ -1,0 +1,10 @@
+---
+layout: default
+title: Code of Conduct
+---
+<section class="content-container coc-container">
+	<article class="entry">
+    {% capture my-include %}{% include_relative codeofconduct.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+	</article>
+</section>
