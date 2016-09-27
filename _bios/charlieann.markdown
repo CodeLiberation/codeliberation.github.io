@@ -1,7 +1,7 @@
 ---
-title: Nina Freeman
-image: nina.jpg
-type: emeritus
+title: Charlie Anne
+image: charlie.jpg
+type: member
 ---
 
 Charlie Ann is a PhD researcher at the University of Bath, specialising in Artificial Intelligence. She specialises in electronic institutions and normative reasoning, and making agents that can reason about their own rules.
