@@ -1,5 +1,5 @@
 ---
-title: Charlie Anne
+title: Charlie Ann Page
 image: charlie.jpg
 type: member
 ---
