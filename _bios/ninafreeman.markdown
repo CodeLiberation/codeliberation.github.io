@@ -4,5 +4,4 @@ image: nina.jpg
 type: emeritus
 ---
 
-Charlie Ann is a PhD researcher at the University of Bath, specialising in Artificial Intelligence. She specialises in electronic institutions and normative reasoning, and making agents that can reason about their own rules.
-Outside of her PhD research, she teaches several courses at Bath and usually has a few other projects on the go too. More about her, her work, and her contact details can be found at www.charlieannpage.co.uk.
+Nina Freeman is a level designer at Fullbright in Portland, Oregon. She started with Fullbright as a level designer on Tacoma. In her personal work, she is most often making vignette games based on her own life stories. She worked as the designer and writer for IGF Nuovo winner Cibele and IGF nominee "how do you Do It?". You can find her work at ninasays.so, and you can follow her on Twitter at @hentaiphd.
