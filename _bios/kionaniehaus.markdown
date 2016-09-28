@@ -1,5 +1,5 @@
 ---
-title: Kiona Neihaus 
+title: Kiona Niehaus 
 image: kiona.jpg
 type: member
 ---
