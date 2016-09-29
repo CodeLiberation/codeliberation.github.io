@@ -7,14 +7,14 @@ category: News
 ---
 **London**
 
-Here in the UK as you might of seen online, we have been working hard on this 7 part education, making and exhibition experience for 16 lucky women in collaboration with the V&A, Machines Room and Goldsmiths. The idea is to take a team of people from never having made a game before to exhibiting in a game at a V&A Lates in 7 short weeks. It's ambitious, it's courageous and it's exciting. We have been overwhelmed by applicants and this week we have the impossible task of turning 70 hopefuls into 16 participants. 
+Here in the UK, as you might of seen online, we have been working hard on a 7 part education, making and exhibition experience for 16 lucky women in collaboration with the V&A, Machines Room and Goldsmiths. The hope is to take a team of people from never having made a game before to exhibiting in a game at a V&A Lates in 7 short weeks. It's ambitious, it's courageous and it's exciting. We have been overwhelmed by applicants and this week we have the impossible task of turning 70 hopefuls into 16 participants. 
 
-We recently found out we're going to be after the V&A's very first games design conference on November the 25 called [Parallel Worlds
+We recently found out we're going to be exhibiting at the close of V&A's very first games design conference on November the 25 called [Parallel Worlds
 ](http://www.vam.ac.uk/blog/network/parallel-worlds-a-new-videogame-design-conference) which features many of our friends and inspirations including the fantastic Auriea Harvey and Holly Gramazio. Fan girl moment!
  
 ![flyer](/img/blog/2016-news/sept/parallel.jpg)
 
-Last week, London members Becca Rose and Alex Robert designed the V&A Lates exhibition space for the games the women will make while stuck in London traffic while Phoenix Perry drove. It was no easy task. The idea was to make a modular system flexible enough it could display any kind of game and also be customizable for each creator. In addition, It needed to require no setup or tear down time and be light and highly portable. 
+Last week, London members Becca Rose and Alex Robert designed our V&A Lates exhibition space for the games the women will make while stuck in London traffic while Phoenix Perry drove. It was no easy task. The idea was to make a modular system flexible enough it could display any kind of game and also be customizable for each creator. In addition, It needed to require no setup or tear down time and be light and highly portable. 
 
 In the car, we started chatting about this toy call Octons English kids grew up with. It's a slotting octagonal form that allows children to build structures easily.
 
