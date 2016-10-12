@@ -84,7 +84,7 @@ This will save your changes to the local repository with a message.
 
 `git pull --rebase`
 
-Always make sure your repository is up to date and that changes don't hurt others' repositories by running `git pull` with the (rebase)[https://git-scm.com/book/en/v2/Git-Branching-Rebasing] command before pushing new changes!
+Always make sure your repository is up to date and that changes don't hurt others' repositories by running `git pull` with the [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) command before pushing new changes!
 
 `git push`
 
