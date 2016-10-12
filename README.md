@@ -9,7 +9,7 @@ Please request contributor access or submit a pull request to push your code to 
 ## Getting started
 To begin, set up an area on your computer where you'll be doing development. Once you're ready, open your command line program of choice and enter:
 
-`git@github.com:CodeLiberation/codeliberation.github.io.git`
+`git clone git@github.com:CodeLiberation/codeliberation.github.io.git`
 
 This repository will now be available on your computer.
 
