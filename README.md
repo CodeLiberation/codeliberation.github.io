@@ -9,7 +9,7 @@ Please request contributor access or submit a pull request to push your code to 
 ## Getting started
 To begin, set up an area on your computer where you'll be doing development. Once you're ready, open your command line program of choice and enter:
 
-`git@github.com:CodeLiberation/codeliberation.github.io.git`
+`git clone git@github.com:CodeLiberation/codeliberation.github.io.git`
 
 This repository will now be available on your computer.
 
@@ -68,11 +68,7 @@ Put images here. Images are organized in folders according to purpose right now.
 That's it! You know all about files now! Yay! Go forth and EDIT.
 
 ## Pushing changes
-To push changes, enter the following into your command line program of choice:
-
-`git pull`
-
-Always make sure you're up to date before pushing new changes!
+To push changes, put the following into your command line program of choice. 
 
 `git status`
 
@@ -85,6 +81,10 @@ This will add ALL modified tracked files to your upcoming submission.
 `git commit -m "YOUR_MESSAGE_HERE"`
 
 This will save your changes to the local repository with a message.
+
+`git pull --rebase`
+
+Always make sure your repository is up to date and that changes don't hurt others' repositories by running `git pull` with the [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) command before pushing new changes!
 
 `git push`
 
