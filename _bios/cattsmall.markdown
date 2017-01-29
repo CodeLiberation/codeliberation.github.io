@@ -1,7 +1,7 @@
 ---
 title: Catt Small
 image: catt.jpg
-type: director
+type: emeritus
 ---
 
 Catt is a product designer, game maker, and developer.
