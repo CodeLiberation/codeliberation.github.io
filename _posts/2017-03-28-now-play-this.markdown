@@ -4,6 +4,7 @@ title: "Workshop Magic Interactivity on the web with p5.js "
 date: 2017-03-28
 author: "Code Liberation Team"
 category: News
+published: false
 ---
 **London**
 
