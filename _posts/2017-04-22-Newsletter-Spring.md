@@ -49,7 +49,7 @@ About Saskia:
 
 At the moment I doing my masters in Computational Arts at Goldsmiths, University of London. I’m interested in creating spatial art with the use of technology, sculptures/paintings created with machines like lasercutters. My research focuses of Playfulness and creating Playful Interactive Toys/Installations." 
 
-### Collaborators: 
+### Contributors: 
 
 ### Volunteers: 
 
