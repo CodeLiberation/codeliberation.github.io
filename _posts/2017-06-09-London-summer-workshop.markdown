@@ -4,7 +4,6 @@ title: "London Summer Workshop series at the V&A"
 date: 2017-06-09
 author: "Code Liberation Team"
 category: News
-published: false
 ---
 
 ![V&A Summer Workshop](/img/blog/2017-news/07/V&A.jpg)
