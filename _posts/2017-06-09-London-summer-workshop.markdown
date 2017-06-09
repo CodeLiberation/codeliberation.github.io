@@ -6,7 +6,7 @@ author: "Code Liberation Team"
 category: News
 ---
 
-![V&A Summer Workshop](/img/blog/2017-news/07/V&A.jpg)
+![V&A Summer Workshop](/img/blog/2017-news/06/V&A.jpg)
 
 We are very happy organize a second workshop series at the V&A this summer. In this 8 part free workshop series you will learn how to design and program games on the web. We will be exploring [p5.js](https://p5js.org), and will learn how to create your own physical buttons using the Arduino!
 
