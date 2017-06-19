@@ -12,6 +12,6 @@ We are very happy organize a second workshop series at the V&A this summer. In t
 
 And the best part is, during the Digital Design weekend at the V&A in September you will get the opportunity to showcase your game.
 
-For more information head over to the [V&A blog](http://www.vam.ac.uk/blog/network/code-liberation-2) and subscribe yourself trough this [this form](https://goo.gl/forms/kzbQKTgfSphwG09F3).
+For more information head over to the [V&A blog](http://www.vam.ac.uk/blog/network/code-liberation-2) and subscribe yourself through this [this form](https://goo.gl/forms/kzbQKTgfSphwG09F3).
 
 The workshop series will run from July through September.
