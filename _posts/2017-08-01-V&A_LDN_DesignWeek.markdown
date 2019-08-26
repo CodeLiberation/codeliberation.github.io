@@ -6,8 +6,13 @@ author: "Phoenix Perry"
 category: News
 ---
 
-Code Liberation worked in collaboration with the Processing Foundation, the V&A, Machines Room and Goldsmiths to run a series of eight workshops that resulted in an exhibtion of new games created during these workshops. For the workshop we also created teaching resources for p5.js which include slides and sample code anyone can use for free to teach p5js.
+Code Liberation worked in collaboration with the Processing Foundation, the V&A, Machines Room and Goldsmiths to run a series of eight workshops that resulted in an exhibition of new games created during these workshops. For the workshop we also created teaching resources for p5.js which include slides and sample code anyone can use for free to teach p5js.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AnHybSTp3kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This video is made using ![InVideo.io](https://invideo.io/)
+
+### Get the materials from the class:
 [Download the workshop series](http://codeliberation.org/CLF-slides/Classes_and_Workshops/p5_at_VA/).
 
 ![Group](/img/blog/2017-ldw/00.jpg)
