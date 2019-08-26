@@ -12,6 +12,7 @@ Code Liberation worked in collaboration with the Processing Foundation, the V&A,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AnHybSTp3kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video is made using [InVideo.io](https://invideo.io/)
+{:target="_blank"} 
 
 ###[Download the workshop series](http://codeliberation.org/CLF-slides/Classes_and_Workshops/p5_at_VA/).
 
